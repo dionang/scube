@@ -1,0 +1,1 @@
+<#include "/${parameters.templateDir}/xhtmlExLabelSimple/controlheader-core.ftl" />
